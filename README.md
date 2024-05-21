@@ -55,6 +55,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 - The CIFAR-10 dataset is provided by the Canadian Institute for Advanced Research (CIFAR).
 - The code utilizes the PyTorch library for building and training neural networks.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/16694564/f80754df-e7f7-415d-92a4-f34e2159a744/paste.txt
